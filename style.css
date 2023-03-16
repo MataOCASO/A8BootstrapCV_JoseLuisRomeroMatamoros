@@ -1,0 +1,62 @@
+body {
+    max-width: 1200px;
+    margin: auto;
+    padding: auto;
+    background-image: url('imagenes/fondo\ 1.jpg');
+    background-repeat: no-repeat;
+    background-size: 2500px;
+
+    
+}
+#menu{
+    position: sticky;
+    background-color: aqua !important;
+    
+    }
+#menu >*:hover{
+       
+        background-color:white;
+        
+     }
+            
+footer{
+
+    position:sticky;
+    background-color: gray;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
